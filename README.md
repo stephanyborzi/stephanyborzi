@@ -2,8 +2,8 @@
 
 <div>
     <a href="https://github.com/stephanyborzi">
-      <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GuiDecker&show_icons=true&theme=dracula&count_private=true">
-    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GuiDecker&layout=compact&theme=dracula">
+      <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=stephanyborzi&show_icons=true&theme=dracula&count_private=true">
+    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=stephanyborzir&layout=compact&theme=dracula">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
