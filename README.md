@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/stephanyborzi">
-    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=stephanyborzi&show_icons=true&theme=dracula&count_private=true&hide=stars" />
-    <img height="180em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=stephanyborzi&layout=compact&theme=dracula" />
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=stephanyborzi&show_icons=true&theme=dracula&count_private=true&hide=stars" />
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=stephanyborzi&layout=compact&theme=dracula" />
   </a>
 </div>
 
