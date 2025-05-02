@@ -1,7 +1,7 @@
 ## 👋 Olá, meu nome é **Stephany Borzi Marques**
 
 🎓 Estudante de Engenharia de Software na FIAP (2024–2027)  
-💼 Estagiária em Governança e Arquitetura de TI | Entusiasta de IA & Dados  
+💼 CIB Technologies Intern @JPMorganChase 
 🚀 Apaixonada por tecnologia, inovação e projetos de impacto social  
 
 ---
